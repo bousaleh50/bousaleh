@@ -194,6 +194,7 @@ section{
 
 .my-image img{
    flex-shrink: 3;
+   width: 25em;
    max-width:50em;
    border-radius:50% 0 40% 0 ;
    margin:20px 20px 0 0;
@@ -201,7 +202,6 @@ section{
 }
 
 /*--------------------------------------------------------*/
-
 .cards{
     background-color:white;
     width: 21.25em;
